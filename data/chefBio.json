@@ -1,0 +1,33 @@
+[
+    {
+      "chefName": "John Smith",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 250
+    },
+    {
+      "chefName": "Emily Johnson",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 180
+    },
+    {
+      "chefName": "Michael Brown",
+      "yearsOfExperience": 20,
+      "numberOfRecipes": 350
+    },
+    {
+      "chefName": "Sarah Davis",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 120
+    },
+    {
+      "chefName": "Robert Wilson",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 200
+    },
+    {
+      "chefName": "Jennifer Thompson",
+      "yearsOfExperience": 18,
+      "numberOfRecipes": 300
+    }
+  ]
+  
