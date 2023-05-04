@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "title": "Vegetarian cuisine",
+      "image": "https://example.com/images/forest.jpg",
+      "description": "Bangladeshi vegetarian cuisine offers a wide array of flavorful dishes that showcase the rich culinary heritage of the region. With its emphasis on fresh vegetables, lentils, and aromatic spices, this cuisine is not only healthy but also incredibly satisfying for vegetarians and vegans alike."
+    },
+    {
+      "id": 2,
+      "title": "Non-vegetarian cuisine",
+      "image": "https://example.com/images/lake.jpg",
+      "description": "Bengali cuisine offers a delectable array of non-vegetarian delights. Must-try dishes include Shorshe Ilish (Hilsa fish in mustard sauce), Chingri Malai Curry (Prawn curry in coconut milk), Mutton Biryani, and Kosha Mangsho. Don't miss out on the famous Macher Jhol and Chitol Macher Muitha. These mouthwatering Bengali non-veg delicacies will leave you craving for more!"
+    },
+    {
+      "id": 3,
+      "title": "Desserts",
+      "image": "https://example.com/images/autumn.jpg",
+      "description": "Bengali desserts are a heavenly treat for your taste buds. Indulge in the velvety goodness of Rasgulla and Sandesh. Savor the aromatic Nolen Gurer Payesh and Mishti Doi. Don't forget to try the irresistible Rasmalai and Malpua . Bengali desserts are pure bliss!"
+    },
+    {
+      "id": 4,
+      "title": "Desserts",
+      "image": "https://example.com/images/autumn.jpg",
+      "description": "Bengali desserts are a heavenly treat for your taste buds. Indulge in the velvety goodness of Rasgulla and Sandesh. Savor the aromatic Nolen Gurer Payesh and Mishti Doi. Don't forget to try the irresistible Rasmalai and Malpua . Bengali desserts are pure bliss!"
+    },
+    {
+      "id": 5,
+      "title": "Vegetarian cuisine",
+      "image": "https://example.com/images/forest.jpg",
+      "description": "Bangladeshi vegetarian cuisine offers a wide array of flavorful dishes that showcase the rich culinary heritage of the region. With its emphasis on fresh vegetables, lentils, and aromatic spices, this cuisine is not only healthy but also incredibly satisfying for vegetarians and vegans alike."
+    },
+    {
+      "id": 6,
+      "title": "Non-vegetarian cuisine",
+      "image": "https://example.com/images/lake.jpg",
+      "description": "Bengali cuisine offers a delectable array of non-vegetarian delights. Must-try dishes include Shorshe Ilish (Hilsa fish in mustard sauce), Chingri Malai Curry (Prawn curry in coconut milk), Mutton Biryani (flavorful rice with tender meat), and Kosha Mangsho (slow-cooked spicy mutton). Don't miss out on the famous Macher Jhol (fish curry) and Chitol Macher Muitha (fish dumplings). These mouthwatering Bengali non-veg delicacies will leave you craving for more!"
+    }
+  ]
+  
