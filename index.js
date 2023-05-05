@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const chefDetails = require('./data/chefBio.json');
 const foodItems = require('./data/foodItem.json');
+const recipeData = require('./data/recipeData.json');
 
 app.use(cors());
 
@@ -27,6 +28,10 @@ app.get('/chefBio/:id',(req,res) => {
 
 app.get('/foodItems', (req, res) => {
     res.send(foodItems);
+})
+
+app.get('/recipeData', (req, res) => {
+  res.send(recipeData);
 })
 
 

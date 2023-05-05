@@ -1,0 +1,55 @@
+[{
+              "id": 1,
+              "image": "https://i.ibb.co/tXq9tkJ/Shorisha-Ilish.png",
+              "recipe_name": "Shorshe Ilish",
+              "rating": 4.5,
+              "ingredients": [
+                "500g Hilsa fish",
+                "2 tablespoons mustard oil",
+                "2 tablespoons mustard paste",
+                "2 green chilies, slit",
+                "1/2 teaspoon turmeric powder",
+                "Salt to taste",
+                "1 tablespoon chopped coriander leaves"
+              ],
+              "cooking_method": "1. Marinate the Hilsa fish with turmeric powder and salt.\n2. Heat mustard oil in a pan and fry the fish until golden brown. Set aside.\n3. In the same pan, add the slit green chilies and mustard paste. Cook for a minute.\n4. Add turmeric powder and salt. Stir well.\n5. Add a cup of water and bring it to a boil.\n6. Gently slide the fried fish into the pan.\n7. Cook for 5-7 minutes until the fish is fully cooked and the gravy thickens.\n8. Garnish with chopped coriander leaves.\n9. Serve hot with steamed rice."
+            },
+            { "id": 2,
+              "recipe_name": "Mishti Doi",
+              "image": "https://i.ibb.co/606F8sn/dessert.png",
+              "rating": 4.3,
+              "ingredients": [
+                "1 liter full-fat milk",
+                "4 tablespoons sugar",
+                "2 tablespoons yogurt (as a starter culture)",
+                "A pinch of saffron strands",
+                "1/4 teaspoon cardamom powder",
+                "Chopped nuts for garnish (optional)"
+              ],
+              "cooking_method": "1. Boil the milk in a heavy-bottomed pan on medium heat, stirring occasionally.\n2. Add sugar and continue to simmer until the milk reduces to half its original volume.\n3. Remove the pan from heat and let it cool down until it is lukewarm.\n4. In a separate bowl, mix the yogurt with a tablespoon of warm milk to make a smooth paste.\n5. Add the yogurt mixture to the lukewarm milk and stir well.\n6. Crush the saffron strands and add them to the milk along with cardamom powder.\n7. Pour the mixture into earthen pots or any other heat-resistant containers.\n8. Cover the pots with a clean cloth and keep them in a warm place for 6-8 hours or overnight.\n9. Once set, refrigerate the Mishti Doi for a few hours before serving.\n10. Garnish with chopped nuts if desired and enjoy the sweet yogurt chilled."
+            },
+            {    "id": 3,
+                "image": "https://i.ibb.co/mJ90mFf/vegetable.png",
+                "recipe_name": "Chicken Biryani",
+                "rating": 4.8,
+                "ingredients": [
+                  "500g chicken, cut into pieces",
+                  "2 cups basmati rice",
+                  "4 tablespoons ghee",
+                  "2 onions, thinly sliced",
+                  "2 tablespoons ginger-garlic paste",
+                  "2 tomatoes, chopped",
+                  "2 green chilies, slit",
+                  "1 teaspoon turmeric powder",
+                  "1 teaspoon red chili powder",
+                  "1 teaspoon biryani masala",
+                  "1/2 cup plain yogurt",
+            "A handful of mint leaves",
+            "A handful of coriander leaves",
+            "Salt to taste",
+            "Fried onions for garnish"
+          ],
+          "cooking_method": "1. Wash the basmati rice and soak it in water for 30 minutes. Drain and set aside.\n2. Heat ghee in a large pan and fry the thinly sliced onions until golden brown. Remove half of the fried onions.\n3. In the same pan, add the ginger-garlic paste and sauté for a minute.\n4. Add the chicken pieces and cook until they are lightly browned.\n5. Add the chopped tomatoes, green chilies, turmeric powder, red chili powder, biryani masala, and salt. Mix well and cook for a few minutes.\n6. In a separate pot, bring water to a boil and add the soaked basmati rice. Cook until the rice is 70% cooked. Drain the rice and set aside.\n7. Preheat the oven to 180°C (350°F).\n8. In a deep oven-proof dish, layer half of the partially cooked rice at the bottom.\n9. Spread half of the cooked chicken mixture over the rice. Sprinkle some fried onions, mint leaves, and coriander leaves.\n10. Repeat the layers with the remaining rice and chicken mixture. Top with the remaining fried onions, mint leaves, and coriander leaves.\n11. Drizzle the plain yogurt evenly over the top layer.\n12. Cover the dish tightly with aluminum foil and place it in the preheated oven. Bake for 30 minutes.\n13. Remove the biryani from the oven and let it rest for a few minutes.\n14. Gently fluff the rice with a fork before serving.\n15. Serve the flavorful Chicken Biryani hot with raita or a side salad."
+         }
+    
+]
